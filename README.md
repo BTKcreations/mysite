@@ -1,6 +1,6 @@
 # mysite
 
-Portfolio website for GitHub Pages.
+Advanced animated portfolio website for GitHub Pages.
 
 ## Quick deploy to GitHub Pages
 
@@ -16,10 +16,13 @@ Portfolio website for GitHub Pages.
 
 ## Local preview
 
-Run a simple static server:
-
 ```bash
 python3 -m http.server 8000
 ```
 
 Then open `http://localhost:8000`.
+
+## Highlights
+- Solar-system inspired hero animation
+- Glassmorphism cards, gradient visuals, and smooth reveal transitions
+- Fully static assets compatible with GitHub Pages
